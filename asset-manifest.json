@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChiomaSarah/React-App-with-Brad-Traversy/static/css/main.091fc1a2.chunk.css",
+    "main.js": "/ChiomaSarah/React-App-with-Brad-Traversy/static/js/main.12920d82.chunk.js",
+    "main.js.map": "/ChiomaSarah/React-App-with-Brad-Traversy/static/js/main.12920d82.chunk.js.map",
+    "runtime-main.js": "/ChiomaSarah/React-App-with-Brad-Traversy/static/js/runtime-main.a2d04431.js",
+    "runtime-main.js.map": "/ChiomaSarah/React-App-with-Brad-Traversy/static/js/runtime-main.a2d04431.js.map",
+    "static/js/2.4f6fbbb7.chunk.js": "/ChiomaSarah/React-App-with-Brad-Traversy/static/js/2.4f6fbbb7.chunk.js",
+    "static/js/2.4f6fbbb7.chunk.js.map": "/ChiomaSarah/React-App-with-Brad-Traversy/static/js/2.4f6fbbb7.chunk.js.map",
+    "index.html": "/ChiomaSarah/React-App-with-Brad-Traversy/index.html",
+    "static/css/main.091fc1a2.chunk.css.map": "/ChiomaSarah/React-App-with-Brad-Traversy/static/css/main.091fc1a2.chunk.css.map",
+    "static/js/2.4f6fbbb7.chunk.js.LICENSE.txt": "/ChiomaSarah/React-App-with-Brad-Traversy/static/js/2.4f6fbbb7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ChiomaSarah/React-App-with-Brad-Traversy/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/ChiomaSarah/React-App-with-Brad-Traversy/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/ChiomaSarah/React-App-with-Brad-Traversy/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2d04431.js",
+    "static/js/2.4f6fbbb7.chunk.js",
+    "static/css/main.091fc1a2.chunk.css",
+    "static/js/main.12920d82.chunk.js"
+  ]
+}
